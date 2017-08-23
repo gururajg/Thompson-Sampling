@@ -1,1 +1,1 @@
-This was ran on Spyder(Python 3.6)
+Used Spyder(Python 3.6)
